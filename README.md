@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Demo Available at
-https://sharp-mclean-bcf3de.netlify.com/
+https://xenodochial-ritchie-405130.netlify.com
 
 
 ## Available Scripts
